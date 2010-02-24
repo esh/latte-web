@@ -1,7 +1,7 @@
 (function() {
 	return {
 		show: function() {
-			return ["ok", "root's show() is called by default at /"]
+			return ["ok", render("view/root.jhtml", {})]
 		}
 	}
 })
