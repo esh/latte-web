@@ -1,2 +1,4 @@
 bin
 *.swp
+dist
+lib/latte.jar
